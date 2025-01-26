@@ -45,7 +45,13 @@ Here are some projects that highlight my technical skills and aspirations:
 
 ## 📈 **My GitHub Stats**
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alexandra-Yurukova&theme=dark&hide_border=true)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandra-Yurukova&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandra-Yurukova&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandra-Yurukova&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra-Yurukova&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
