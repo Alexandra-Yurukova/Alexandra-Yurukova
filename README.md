@@ -53,4 +53,4 @@ Here are some projects that highlight my technical skills and aspirations:
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories or reach out to collaborate on automation or project management initiatives.  
+Thank you for visiting my profile! Feel free to check out my repositories or reach out.  
