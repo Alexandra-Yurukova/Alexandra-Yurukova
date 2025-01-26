@@ -36,16 +36,21 @@ Here are some projects that highlight my technical skills and aspirations:
 ---
 
 ## 🤝 **Let’s Connect!**
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/alexandra-yurukova/)  
-- 📫 Email: [mailto:alex.yurukova@gmail.com]  
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-yurukova/)  
+
+[![Email Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alex.yurukova@gmail.com) 
 
 ---
 
 ## 📈 **My GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandra-Yurukova&show_icons=true&theme=radical)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Alexandra-Yurukova&theme=dark&hide_border=true)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandra-Yurukova&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra-Yurukova&layout=compact&theme=radical)
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra-Yurukova&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 Thank you for visiting my profile! Feel free to check out my repositories or reach out to collaborate on automation or project management initiatives.  
